@@ -1,5 +1,4 @@
-# What is a Google Colab Notebook?
-A very brief description of Colab notebooks
+# What is a Jupyter Notebook?
 
 - Jupyter Notebooks
     - Combined text + code
@@ -7,45 +6,32 @@ A very brief description of Colab notebooks
     - A series of “cells” in a notebook
 
 - Text Cells
-    - cells which allow text and images text is normally formatted in "markdown"
+    - Cells which allow text and images text is normally formatted in "markdown"
+    - Markdown has an easy to learn syntax for formatting text - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 - Code Cells
-    - cells which run code (i.e., Python)
+    - Cells which run code (i.e., Python)
+    - Code cells have two primary inputs:
+       - code
+       - comments (indicated as anything preceded by a #)
+    - To run code cells click the "triangle" play button 
 
 - Output Cells
     - Temporary cells which produce output from a code cell
 
-- Colab Notebooks
-    - A special type of Jupyter notebook
-    - Python is pre-installed
-    - Many libraries and dependencies pre-installed
-    - Connects to Google Drive (can be useful for file input/output)
+- Example
+    - A code cell waiting to be run:
+      ![An example of a Google Colab Code Cell, has not been run yet](https://i.imgur.com/CJnNAhB.png)
+
+    - A code cell which has been run (green check with output):
+      ![An example of a Google Colab Code cell, has been executed succesfully](https://i.imgur.com/iqx7Yx2.png)
+
+    - A code cell which has encountered an error (red ! and error message)
+      ![An example of a Google Colab Code cell, has encountered an error while running.](https://i.imgur.com/F0TOUZD.png)
 
 
-# Text Cells
 
-- Text Cells include text in markdown format, allowing for you to include traditional writing separated from the code cells. 
-- Markdown has an easy to learn syntax for formatting text - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-- (This document was written using markdown!)
 
-# Code Cells
-
-- Code cells have two primary inputs:
-    - code
-    - comments (indicated as anything preceded by a #)
-
-- Click the "play" button to run code cells:
-
-A code cell waiting to be run:
-
-![An example of a Google Colab Code Cell, has not been run yet](https://i.imgur.com/CJnNAhB.png)
-
-A code cell which has been run (green check with output):
-
-![An example of a Google Colab Code cell, has been executed succesfully](https://i.imgur.com/iqx7Yx2.png)
-
-A code cell which has encountered an error (red ! and error message)
-![An example of a Google Colab Code cell, has encountered an error while running.](https://i.imgur.com/F0TOUZD.png)
 
 
 # Internet required
