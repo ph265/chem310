@@ -7,7 +7,7 @@ A very brief description of Colab notebooks
     - A series of “cells” in a notebook
 
 - Text Cells
-    - cells which allow markdown format text, images, etc.
+    - cells which allow text and images text is normally formatted in "markdown"
 
 - Code Cells
     - cells which run code (i.e., Python)
