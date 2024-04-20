@@ -20,16 +20,18 @@
     - Temporary cells which produce output from a code cell
 
 - Examples
-    - A code cell waiting to be run:
-      ![An example of a Google Colab Code Cell, has not been run yet](https://i.imgur.com/CJnNAhB.png)
+    - A code cell waiting to be run
+    	- looks like this
+     	  ![An example of a Google Colab Code Cell, has not been run yet](https://i.imgur.com/CJnNAhB.png) 
 
-    - A code cell which has been run 
+       
+	- A code cell which has been run 
 		- notice the small green check by the play button:
 		- notice the data now in the output cell
       ![An example of a Google Colab Code cell, has been executed succesfully](https://i.imgur.com/iqx7Yx2.png)
-
-    - A code cell which has encountered an error
+   
+	- A code cell which has encountered an error
 		- notice the red circle with a white ! by the play button
 		- notice the error message in the output cell
-      ![An example of a Google Colab Code cell, has encountered an error while running.](https://i.imgur.com/F0TOUZD.png)
+     	![An example of a Google Colab Code cell, has encountered an error while running.](https://i.imgur.com/F0TOUZD.png)
 
