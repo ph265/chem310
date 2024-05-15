@@ -7,7 +7,9 @@
 
 - Text Cells
     - Cells which allow text and images text is normally formatted in "markdown"
-    - Markdown has an easy to learn syntax for formatting text - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+    - Markdown has an easy to learn syntax for formatting text
+    - you can find more information here [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+    - another option is to ask an AI like [ChatGPT](https://chatgpt.com/?oai-dm=1)
 
 - Code Cells
     - Cells which run code (i.e., Python)
